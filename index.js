@@ -39,5 +39,3 @@ bot.on('ready', () => {
     console.log('Refreshed');
     bot.user.setActivity('ATCT / A.perms');
 });
-
-bot.login('NzAyNDUxOTgwMDg5NDI1OTUx.XqCNgQ.xKUK7OfDZS_1twuX3yRKyhi6t0E');
