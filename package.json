@@ -1,0 +1,23 @@
+{
+  "name": "Host-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captainfox4550/Host-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captainfox4550/Host-bot/issues"
+  },
+  "homepage": "https://github.com/captainfox4550/Host-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
